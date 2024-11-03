@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Affirmations" parent="android:ThemeOverlay.Material.Dark.ActionBar">
+        <item name="colorPrimary">@color/blue_200</item>
+        <item name="colorPrimaryVariant">@color/blue_500</item>
+    </style>>
+</resources>
